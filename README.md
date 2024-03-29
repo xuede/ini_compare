@@ -1,6 +1,6 @@
 # ini_compare
 
-## Repository Title: INI Configuration Comparison and Update Tool
+##INI Configuration Comparison and Update Tool
 
 ## Description:
 
